@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sasusu.github.io/sitemap.txt
